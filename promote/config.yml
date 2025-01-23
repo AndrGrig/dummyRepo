@@ -3,6 +3,6 @@
   jenkinsServer: sw1
 - testToLaunch: testName2
   silentMode: true
-  jenkinsServer: sw1
+  jenkinsServer: sw5
 - testToLaunch: testName3
   jenkinsServer: sw3
