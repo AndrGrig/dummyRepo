@@ -1,8 +1,7 @@
-- testToLaunch: testName1
-  silentMode: true
-  jenkinsServer: sw1
-- testToLaunch: testName2
-  silentMode: true
-  jenkinsServer: sw5
-- testToLaunch: testName3
-  jenkinsServer: sw3
+orchestratorConfig:
+  testConfig:
+  - testToLaunch: test1
+    silentMode: true
+  - testToLaunch: test2
+  - testToLaunch: test3
+  - testToLaunch: test4
