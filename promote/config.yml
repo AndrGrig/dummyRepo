@@ -6,3 +6,4 @@ orchestratorConfig:
   - testToLaunch: test3
   - testToLaunch: test4
   - testToLaunch: test5
+  - testToLaunch: test6
