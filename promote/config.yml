@@ -7,3 +7,4 @@ orchestratorConfig:
   - testToLaunch: test4
   - testToLaunch: test5
   - testToLaunch: test6
+    silentMode: true
