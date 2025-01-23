@@ -1,0 +1,7 @@
+- testToLaunch: testName1
+  silentMode: true
+  jenkinsServer: sw1
+- testToLaunch: testName2
+  jenkinsServer: sw1
+- testToLaunch: testName3
+  jenkinsServer: sw3
